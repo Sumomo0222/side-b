@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#392024"/>
+      <stop offset="60%" stop-color="#2a0f14"/>
+      <stop offset="100%" stop-color="#230d11"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <path d="M 800 800 L 800 120 A 680 680 0 0 0 120 800 Z" fill="#c95b4a" opacity=".95"/>
+      <circle cx="620" cy="180" r="150" fill="none" stroke="#e8cfc0" stroke-opacity=".4" stroke-width="2"/>
+      <circle cx="620" cy="180" r="110" fill="none" stroke="#e8cfc0" stroke-opacity=".25" stroke-width="1.5"/>
+      <circle cx="620" cy="180" r="10" fill="#e8cfc0" opacity=".7"/>
+      <text x="70" y="600" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-weight="bold" font-size="104" fill="#e8cfc0" text-anchor="start">酒神车站</text>
+      <text x="70" y="656" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="25" letter-spacing="9" fill="#e8cfc0" opacity=".85" text-anchor="start">深红晚祷</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#e8cfc0">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">酒神厂牌 · DG-020</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">2020 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#e8cfc0" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#e8cfc0" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="645.0690856203437" y1="578.9205085486174" x2="690.8739422536826" y2="822.167597427766" stroke="#e8cfc0" stroke-opacity="0.05544358068145812" stroke-width="1.3662819100078196"/><line x1="663.3247537538409" y1="597.3140776157379" x2="766.5677235961775" y2="499.7325841984551" stroke="#e8cfc0" stroke-opacity="0.06373553184093908" stroke-width="1.396444425592199"/><line x1="758.2191165536642" y1="479.93675023317337" x2="935.2837505995495" y2="695.1335692182831" stroke="#e8cfc0" stroke-opacity="0.09720649485243485" stroke-width="1.5460989930666984"/><line x1="303.9654130116105" y1="635.2200787514448" x2="358.9560788167821" y2="762.2014509935332" stroke="#e8cfc0" stroke-opacity="0.08564700203714892" stroke-width="1.064134520618245"/>
+  <filter id="gr61" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="61" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr61)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

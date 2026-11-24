@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#273e4f"/>
+      <stop offset="60%" stop-color="#173042"/>
+      <stop offset="100%" stop-color="#132837"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <rect x="0" y="0" width="800" height="250" fill="#c9a86a" opacity=".92"/>
+      <circle cx="160" cy="640" r="118" fill="none" stroke="#f1e6cf" stroke-opacity=".55" stroke-width="2"/>
+      <circle cx="160" cy="640" r="86" fill="none" stroke="#f1e6cf" stroke-opacity=".3" stroke-width="1.4"/>
+      <circle cx="160" cy="640" r="14" fill="#f1e6cf" opacity=".8"/>
+      <text x="748" y="300" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-weight="bold" font-size="130" fill="#0a161e" text-anchor="end">港口灯</text>
+      <text x="748" y="432.6" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-weight="bold" font-size="130" fill="#0a161e" text-anchor="end">火</text>
+      <text x="748" y="620" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="24" letter-spacing="9" fill="#f1e6cf" text-anchor="end">蓝屿爵士五重奏</text>
+      <line x1="420" y1="650" x2="748" y2="650" stroke="#f1e6cf" stroke-opacity=".5" stroke-width="2"/>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#f1e6cf">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">潮汐唱片 · TC-074</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">1974 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#f1e6cf" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#f1e6cf" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="744.2419815808535" y1="518.378147110343" x2="1025.424099721981" y2="401.8224029856234" stroke="#f1e6cf" stroke-opacity="0.061869007989298556" stroke-width="1.2777569015976042"/><line x1="756.4934087917209" y1="483.3994712680578" x2="894.7617180689019" y2="363.6672521735363" stroke="#f1e6cf" stroke-opacity="0.07609269872773439" stroke-width="1.5004343349952252"/><line x1="46.01969514042139" y1="250.55189467966557" x2="70.00166973046746" y2="367.75255627693963" stroke="#f1e6cf" stroke-opacity="0.08996551159070805" stroke-width="0.6592632889747619"/><line x1="573.2944454997778" y1="744.0813533961773" x2="728.9988768336713" y2="954.0681418716053" stroke="#f1e6cf" stroke-opacity="0.06085112374275923" stroke-width="1.4375541055575014"/>
+  <filter id="gr10" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="10" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr10)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

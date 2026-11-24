@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#35251b"/>
+      <stop offset="60%" stop-color="#26150a"/>
+      <stop offset="100%" stop-color="#201208"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <path d="M 0 0 L 0 680 A 680 680 0 0 1 680 0 Z" fill="#d8862a" opacity=".95"/>
+      <circle cx="180" cy="620" r="150" fill="none" stroke="#f0dfc0" stroke-opacity=".4" stroke-width="2"/>
+      <circle cx="180" cy="620" r="110" fill="none" stroke="#f0dfc0" stroke-opacity=".25" stroke-width="1.5"/>
+      <circle cx="180" cy="620" r="10" fill="#f0dfc0" opacity=".7"/>
+      <text x="730" y="600" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-weight="bold" font-size="104" fill="#f0dfc0" text-anchor="end">感应加热</text>
+      <text x="730" y="656" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="25" letter-spacing="9" fill="#f0dfc0" opacity=".85" text-anchor="end">涡电流</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#f0dfc0">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">环形实验室 · RL-018</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">2018 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#f0dfc0" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#f0dfc0" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="796.4212963357568" y1="669.9120912700891" x2="948.4141558019464" y2="543.0216265068669" stroke="#f0dfc0" stroke-opacity="0.05034358520060778" stroke-width="1.3291139326989652"/><line x1="58.83417557924986" y1="445.0129648670554" x2="143.2285276542893" y2="573.9213034815899" stroke="#f0dfc0" stroke-opacity="0.06465897471643985" stroke-width="1.080556800030172"/><line x1="112.41815946996212" y1="10.393031686544418" x2="141.20220246794847" y2="67.97303780648151" stroke="#f0dfc0" stroke-opacity="0.08953350884839893" stroke-width="0.7682467460632324"/><line x1="719.9125973507762" y1="798.1505671516061" x2="789.6565552115824" y2="968.2601169236993" stroke="#f0dfc0" stroke-opacity="0.07195283472537994" stroke-width="0.6723353784997016"/>
+  <filter id="gr32" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="32" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr32)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

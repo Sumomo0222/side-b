@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#312a24"/>
+      <stop offset="60%" stop-color="#211a14"/>
+      <stop offset="100%" stop-color="#1c1611"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <g transform="rotate(-6 240 225)">
+        <rect x="90" y="120" width="300" height="210" fill="#403a35" opacity=".85"/>
+        <rect x="90" y="120" width="300" height="210" fill="none" stroke="#14100c" stroke-opacity=".6"/>
+        <rect x="195" y="106" width="90" height="28" fill="#f1e6cf" opacity=".28" transform="rotate(-0.7733381669968367 240 120)"/>
+      </g><g transform="rotate(4 570 185)">
+        <rect x="420" y="90" width="300" height="190" fill="#332c27" opacity=".85"/>
+        <rect x="420" y="90" width="300" height="190" fill="none" stroke="#14100c" stroke-opacity=".6"/>
+        <rect x="525" y="76" width="90" height="28" fill="#f1e6cf" opacity=".28" transform="rotate(3.8912778198719025 570 90)"/>
+      </g><g transform="rotate(3 280 535)">
+        <rect x="140" y="420" width="280" height="230" fill="#4d4843" opacity=".85"/>
+        <rect x="140" y="420" width="280" height="230" fill="none" stroke="#14100c" stroke-opacity=".6"/>
+        <rect x="235" y="406" width="90" height="28" fill="#f1e6cf" opacity=".28" transform="rotate(-2.255014404654503 280 420)"/>
+      </g><g transform="rotate(-5 595 510)">
+        <rect x="450" y="380" width="290" height="260" fill="#403a35" opacity=".85"/>
+        <rect x="450" y="380" width="290" height="260" fill="none" stroke="#14100c" stroke-opacity=".6"/>
+        <rect x="550" y="366" width="90" height="28" fill="#f1e6cf" opacity=".28" transform="rotate(-2.100714961066842 595 380)"/>
+      </g><circle cx="380" cy="300" r="86" fill="#a63243" opacity=".92"/>
+      <circle cx="380" cy="300" r="60" fill="none" stroke="#6c212c" stroke-width="1.6" opacity=".8"/>
+      <circle cx="380" cy="300" r="8" fill="#531922"/>
+      <text x="400" y="748" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="20" letter-spacing="6" fill="#f1e6cf" opacity=".7" text-anchor="middle">SIDE B TAPE CLUB · 2016</text>
+      <text x="56" y="720" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-weight="bold" font-size="72" fill="#f1e6cf" font-style="italic">采样手记</text>
+      <text x="56" y="668" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="23" letter-spacing="8" fill="#f1e6cf" opacity=".85">词不达意</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#f1e6cf">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">口误工作室 · MW-016</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">2016 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#f1e6cf" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#f1e6cf" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="42.925840243697166" y1="513.8125132769346" x2="199.84999471224822" y2="755.6969084149617" stroke="#f1e6cf" stroke-opacity="0.06584615398896859" stroke-width="0.9495561610907316"/><line x1="595.914575830102" y1="120.58158311992884" x2="686.674070944059" y2="62.52176921220889" stroke="#f1e6cf" stroke-opacity="0.07077149524120614" stroke-width="1.044796886527911"/><line x1="608.535666204989" y1="423.05425107479095" x2="657.6470055987272" y2="487.6632134413553" stroke="#f1e6cf" stroke-opacity="0.09171156763331965" stroke-width="0.7174942161887884"/><line x1="673.352399840951" y1="2.2421395406126976" x2="874.8470543701166" y2="238.1915164914471" stroke="#f1e6cf" stroke-opacity="0.09876740305917338" stroke-width="1.547896373923868"/>
+  <filter id="gr21" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="21" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr21)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

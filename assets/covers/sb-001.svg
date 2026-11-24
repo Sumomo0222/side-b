@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#2d2430"/>
+      <stop offset="60%" stop-color="#1d1420"/>
+      <stop offset="100%" stop-color="#18111b"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <circle cx="437.8246722370386" cy="300.54325761273503" r="60" fill="none" stroke="#f1e6cf" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="437.8246722370386" cy="300.54325761273503" r="117.29334336146712" fill="none" stroke="#f1e6cf" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="437.8246722370386" cy="300.54325761273503" r="160.64573487639427" fill="none" stroke="#a63243" stroke-opacity="0.5" stroke-width="3"/><circle cx="437.8246722370386" cy="300.54325761273503" r="198.49539257213473" fill="none" stroke="#f1e6cf" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="437.8246722370386" cy="300.54325761273503" r="279.04327480494976" fill="none" stroke="#f1e6cf" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="437.8246722370386" cy="300.54325761273503" r="319.658645670861" fill="none" stroke="#a63243" stroke-opacity="0.5" stroke-width="3"/><circle cx="437.8246722370386" cy="300.54325761273503" r="389.8919994235039" fill="none" stroke="#f1e6cf" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="437.8246722370386" cy="300.54325761273503" r="483.9831117540598" fill="none" stroke="#f1e6cf" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="437.8246722370386" cy="300.54325761273503" r="433.8579727113247" fill="none" stroke="#a63243" stroke-opacity="0.5" stroke-width="3"/><circle cx="437.8246722370386" cy="300.54325761273503" r="476.28961092978716" fill="none" stroke="#f1e6cf" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="437.8246722370386" cy="300.54325761273503" r="606.9690532237291" fill="none" stroke="#f1e6cf" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="437.8246722370386" cy="300.54325761273503" r="34" fill="#a63243"/><circle cx="437.8246722370386" cy="300.54325761273503" r="7" fill="#0f0a10"/>
+          <path d="M 177.8246722370386 300.54325761273503 A 260 260 0 0 1 437.8246722370386 40.54325761273503" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="52"/><g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#f1e6cf">
+      <rect x="46" y="46" width="150" height="34" fill="none" stroke="#f1e6cf" stroke-opacity=".55" stroke-width="1.4"/>
+      <text x="121" y="69" font-size="15" letter-spacing="3" text-anchor="middle" opacity=".85">STEREO · 33⅓</text>
+    </g>
+      <text x="46" y="600" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-size="92" fill="#f1e6cf" font-style="italic">午夜环线</text>
+      <text x="46" y="662" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="27" letter-spacing="10" fill="#a63243">赤潮电台</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#f1e6cf">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">灯塔唱片 · LB-021</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">2021 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#f1e6cf" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#f1e6cf" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="310.53343173116446" y1="120.62576953321695" x2="547.0960826524915" y2="21.755324407713317" stroke="#f1e6cf" stroke-opacity="0.07570417104288936" stroke-width="1.1148536695633084"/><line x1="612.8311088308692" y1="241.12417809665203" x2="668.619921203795" y2="342.2237017961153" stroke="#f1e6cf" stroke-opacity="0.09036098251817748" stroke-width="1.2284930557012559"/><line x1="69.99479848891497" y1="786.0749628394842" x2="158.3757550162851" y2="1050.2990705978893" stroke="#f1e6cf" stroke-opacity="0.061863128503318876" stroke-width="1.3899970172438771"/><line x1="289.64799884706736" y1="665.2607951313257" x2="531.157447684656" y2="507.7377187881383" stroke="#f1e6cf" stroke-opacity="0.0806099847657606" stroke-width="0.672208397090435"/>
+  <filter id="gr23" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="23" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr23)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

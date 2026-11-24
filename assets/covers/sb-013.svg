@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#344257"/>
+      <stop offset="60%" stop-color="#25344a"/>
+      <stop offset="100%" stop-color="#1f2c3e"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <circle cx="421.89824622124434" cy="358.6395927425474" r="60" fill="none" stroke="#e8e0cd" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="421.89824622124434" cy="358.6395927425474" r="119.99187146127224" fill="none" stroke="#e8e0cd" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="421.89824622124434" cy="358.6395927425474" r="153.50273645669222" fill="none" stroke="#c95b4a" stroke-opacity="0.5" stroke-width="3"/><circle cx="421.89824622124434" cy="358.6395927425474" r="224.7870045416057" fill="none" stroke="#e8e0cd" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="421.89824622124434" cy="358.6395927425474" r="287.8545481264591" fill="none" stroke="#e8e0cd" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="421.89824622124434" cy="358.6395927425474" r="355.072963796556" fill="none" stroke="#c95b4a" stroke-opacity="0.5" stroke-width="3"/><circle cx="421.89824622124434" cy="358.6395927425474" r="407.60155925899744" fill="none" stroke="#e8e0cd" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="421.89824622124434" cy="358.6395927425474" r="471.94979142025113" fill="none" stroke="#e8e0cd" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="421.89824622124434" cy="358.6395927425474" r="533.2289218902588" fill="none" stroke="#c95b4a" stroke-opacity="0.5" stroke-width="3"/><circle cx="421.89824622124434" cy="358.6395927425474" r="614.3177784718573" fill="none" stroke="#e8e0cd" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="421.89824622124434" cy="358.6395927425474" r="673.160651884973" fill="none" stroke="#e8e0cd" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="421.89824622124434" cy="358.6395927425474" r="34" fill="#c95b4a"/><circle cx="421.89824622124434" cy="358.6395927425474" r="7" fill="#131a25"/>
+          <path d="M 161.89824622124434 358.6395927425474 A 260 260 0 0 1 421.89824622124434 98.63959274254739" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="52"/><g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#e8e0cd">
+      <rect x="46" y="46" width="150" height="34" fill="none" stroke="#e8e0cd" stroke-opacity=".55" stroke-width="1.4"/>
+      <text x="121" y="69" font-size="15" letter-spacing="3" text-anchor="middle" opacity=".85">STEREO · 33⅓</text>
+    </g>
+      <text x="46" y="600" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-size="92" fill="#e8e0cd" font-style="italic">云层之下</text>
+      <text x="46" y="662" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="27" letter-spacing="10" fill="#c95b4a">低空飞行乐团</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#e8e0cd">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">云梯唱片 · YT-004</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">2004 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#e8e0cd" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#e8e0cd" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="86.84191554784775" y1="725.8955020457506" x2="144.57652288049562" y2="800.9844048292218" stroke="#e8e0cd" stroke-opacity="0.08899097192334011" stroke-width="1.1418022102676333"/><line x1="488.1944365799427" y1="155.0832685083151" x2="629.0633000373988" y2="355.0766506562775" stroke="#e8e0cd" stroke-opacity="0.050378866156097504" stroke-width="1.266217140853405"/><line x1="295.3639376908541" y1="527.00279597193" x2="563.9852627629436" y2="417.4120011570223" stroke="#e8e0cd" stroke-opacity="0.08166700488654896" stroke-width="1.2457085290458054"/><line x1="79.5179845765233" y1="371.2319377809763" x2="337.6584921951022" y2="330.03164334161823" stroke="#e8e0cd" stroke-opacity="0.07995670312084258" stroke-width="1.238911504065618"/>
+  <filter id="gr65" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="65" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr65)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

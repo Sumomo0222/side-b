@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>SIDE B · 独立黑胶唱片店 — B面也有好歌</title>
+  <meta name="description" content="SIDE B 独立黑胶唱片店：一整面可以拖动的唱片墙。全新与二手黑胶、限量编号发售、在线试听。全部商品均为虚构演示内容。">
+  <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display:ital,wght@0,600;0,800;1,600&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+  <!-- 顶部滚动告示条 -->
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee-track">
+      <span>SIDE B · 独立黑胶唱片店</span><i>●</i>
+      <span>本周新到 20 张 · 全部店主亲耳试听</span><i>●</i>
+      <span>满 ¥350 免运费 · 一次买三张送唱片内袋</span><i>●</i>
+      <span>试听优惠码 <b>SIDEB10</b> 全场 9 折</span><i>●</i>
+      <span>退线市旧港街 33⅓ 号 · 雨天照常营业</span><i>●</i>
+      <span>SIDE B · 独立黑胶唱片店</span><i>●</i>
+      <span>本周新到 20 张 · 全部店主亲耳试听</span><i>●</i>
+      <span>满 ¥350 免运费 · 一次买三张送唱片内袋</span><i>●</i>
+      <span>试听优惠码 <b>SIDEB10</b> 全场 9 折</span><i>●</i>
+      <span>退线市旧港街 33⅓ 号 · 雨天照常营业</span><i>●</i>
+    </div>
+  </div>
+
+  <!-- 页头 -->
+  <header class="site-header" id="siteHeader">
+    <a class="logo" href="#/" aria-label="SIDE B 首页">
+      <svg class="logo-disc" viewBox="0 0 64 64" aria-hidden="true">
+        <circle cx="32" cy="32" r="30" fill="#121110"/>
+        <circle cx="32" cy="32" r="22" fill="none" stroke="#4a4038" stroke-width="1.6"/>
+        <circle cx="32" cy="32" r="15" fill="none" stroke="#4a4038" stroke-width="1.3"/>
+        <circle cx="32" cy="32" r="10" fill="#7a1f2b"/>
+        <text x="32" y="36" text-anchor="middle" font-size="11" font-family="Georgia,serif" font-weight="bold" fill="#f1e6cf">B</text>
+        <circle cx="32" cy="32" r="2.6" fill="#f1e6cf"/>
+        <path d="M 9 51 A 30 30 0 0 1 52 9" fill="none" stroke="#f1e6cf" stroke-opacity=".3" stroke-width="7"/>
+      </svg>
+      <span class="logo-word">SIDE<b>B</b><small>独立黑胶唱片店</small></span>
+    </a>
+    <nav class="main-nav" aria-label="主导航">
+      <a href="#/" data-nav="wall">唱片墙</a>
+      <a href="#/#limited" data-nav="limited">限量发售</a>
+      <a href="#/#about" data-nav="about">关于 SIDE B</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" id="btnFav" aria-label="收藏夹">
+        <svg viewBox="0 0 24 24"><path d="M12 21s-7.5-4.9-10-9.2C.4 8.6 2 4.9 5.6 4.2c2-.4 4 .5 5.1 2.1L12 8l1.3-1.7c1.1-1.6 3.1-2.5 5.1-2.1C22 4.9 23.6 8.6 22 11.8 19.5 16.1 12 21 12 21z"/></svg>
+        <span class="badge" id="favCount" hidden>0</span>
+      </button>
+      <button class="cart-btn" id="btnCart" aria-label="购物车">
+        <svg viewBox="0 0 24 24"><path d="M7 4h-2l-1 2h2l3.6 7.6-1.4 2.5c-.4.7.1 1.9 1.2 1.9h9.9l1-2H10.3l.9-1.6c.3-.6 0-1.4-.6-1.7L7.7 8H21l-2 6H9.5L7 3.5C6.8 3.2 6.5 3 6 3H3v2h3l.5 1"/><circle cx="10" cy="20" r="1.6"/><circle cx="18" cy="20" r="1.6"/></svg>
+        <span>购物车</span>
+        <span class="badge" id="cartCount" hidden>0</span>
+      </button>
+      <button class="menu-btn" id="btnMenu" aria-label="菜单">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="app">
+    <!-- ============ 视图：唱片墙（首页） ============ -->
+    <section class="view" id="view-wall">
+      <!-- 筛选栏 -->
+      <div class="filter-bar" id="filterBar">
+        <div class="filter-inner">
+          <div class="filter-chips" id="genreChips" role="group" aria-label="按曲风筛选"></div>
+          <div class="filter-selects">
+            <label class="sel-wrap"><span>年代</span><select id="selDecade"></select></label>
+            <label class="sel-wrap"><span>价格</span><select id="selPrice"></select></label>
+            <label class="sel-wrap"><span>品相</span><select id="selCondition"></select></label>
+            <label class="sel-wrap"><span>排序</span><select id="selSort"></select></label>
+            <button class="clear-btn" id="btnClear" hidden>清除筛选</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- 唱片墙 -->
+      <div class="wall-stage">
+        <div class="wall-head">
+          <div class="wall-title">
+            <span class="wall-kicker">DIG THE CRATES</span>
+            <h1>唱片墙</h1>
+            <p class="wall-sub" id="wallCount">共 20 张 · 按住任意处，左右拖动</p>
+          </div>
+          <div class="wall-arrows">
+            <button id="wallPrev" aria-label="向左滚动">←</button>
+            <button id="wallNext" aria-label="向右滚动">→</button>
+          </div>
+        </div>
+
+        <div class="wall" id="wall" tabindex="0" aria-label="唱片墙，可左右拖动浏览">
+          <!-- 行由 JS 渲染 -->
+        </div>
+        <div class="wall-edge left"></div>
+        <div class="wall-edge right"></div>
+        <div class="drag-hint" id="dragHint">
+          <svg viewBox="0 0 48 24"><path d="M4 12h36m0 0-6-6m6 6-6 6M8 12h0" stroke="currentColor" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M2 12l5-5M2 12l5 5" stroke="currentColor" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg>
+          <span>按住拖动 · 横向逛墙</span>
+        </div>
+      </div>
+
+      <!-- 限量发售 -->
+      <div class="strip-head limited-head">
+        <div class="strip-inner">
+          <span class="stamp-sticker">限量</span>
+          <div>
+            <h2>限量编号发售</h2>
+            <p>彩胶、编号、卖完不再版 —— 剩余编号实时更新</p>
+          </div>
+        </div>
+      </div>
+      <div class="limited-grid" id="limitedGrid"></div>
+
+      <!-- 店铺故事 -->
+      <div class="about" id="about">
+        <div class="about-inner">
+          <div class="about-ticket">
+            <div class="ticket-hole"></div>
+            <h2>关于 SIDE B</h2>
+            <p>我们开店的理由很简单：一张专辑最好的歌，经常躲在 B 面第 3 首。</p>
+            <p>SIDE B 是一间虚构的独立黑胶唱片店，主营全新彩胶与二手老盘。每一张进店的唱片都由店主亲手放上唱机、听到 B 面为止；品相按 Goldmine 等级标注，绝不掺水。</p>
+            <p class="about-meta">退线市旧港街 33⅓ 号 · 每天 13:00–23:00<br>雨天照常营业，囤胶到底。</p>
+            <div class="ticket-stub">№ 33⅓<br><small>ADMIT ONE</small></div>
+          </div>
+          <div class="about-notes">
+            <div class="note">
+              <h3>只卖听过的唱片</h3>
+              <p>进店的每一张都由店主完整试听。写不进描述的杂音，我们写进品相备注。</p>
+            </div>
+            <div class="note">
+              <h3>包装认真到过分</h3>
+              <p>牛皮纸 + 硬纸角 + 防潮内袋，唱片永远竖着走。运费满 ¥350 全免。</p>
+            </div>
+            <div class="note">
+              <h3>二手可退</h3>
+              <p>收货 7 天内，若实物与品相描述不符，包退包换——请放心淘盘。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 视图：商品详情 ============ -->
+    <section class="view" id="view-product" hidden></section>
+  </main>
+
+  <!-- 页脚 -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="logo-word big">SIDE<b>B</b><small>独立黑胶唱片店</small></span>
+        <p>本站为虚构演示站点：所有唱片、音乐人、曲目、封面与试听均为原创虚构内容。</p>
+      </div>
+      <div class="footer-col">
+        <h4>逛店</h4>
+        <a href="#/">唱片墙</a>
+        <a href="#/#limited">限量发售</a>
+        <a href="#" data-info="grading">品相等级说明</a>
+      </div>
+      <div class="footer-col">
+        <h4>售后</h4>
+        <a href="#" data-info="shipping">运费与包装</a>
+        <a href="#" data-info="faq">常见问题</a>
+        <a href="#" data-info="faq">退换政策</a>
+      </div>
+      <div class="footer-col">
+        <h4>到店</h4>
+        <p class="footer-line">退线市旧港街 33⅓ 号</p>
+        <p class="footer-line">每天 13:00 – 23:00</p>
+        <p class="footer-line">hello@sideb.example</p>
+      </div>
+    </div>
+    <div class="footer-base">© 2026 SIDE B Records · B面也有好歌 · 演示站点</div>
+  </footer>
+
+  <!-- ============ 收藏抽屉 ============ -->
+  <aside class="drawer" id="favDrawer" aria-label="收藏夹">
+    <div class="drawer-head">
+      <h3>收藏夹</h3>
+      <button class="drawer-close" data-close-drawer aria-label="关闭">×</button>
+    </div>
+    <div class="drawer-body" id="favList"></div>
+    <div class="drawer-foot">
+      <p class="drawer-note">收藏不占库存，心动的先占个座。</p>
+    </div>
+  </aside>
+
+  <!-- ============ 购物车抽屉 ============ -->
+  <aside class="drawer" id="cartDrawer" aria-label="购物车">
+    <div class="drawer-head">
+      <h3>购物车 <span id="cartDrawerCount"></span></h3>
+      <button class="drawer-close" data-close-drawer aria-label="关闭">×</button>
+    </div>
+    <div class="drawer-body" id="cartList"></div>
+    <div class="drawer-foot" id="cartFoot"></div>
+  </aside>
+
+  <div class="overlay" id="overlay"></div>
+
+  <!-- ============ 结算弹层 ============ -->
+  <div class="modal" id="checkoutModal" hidden>
+    <div class="modal-box checkout-box">
+      <button class="modal-close" data-close-modal aria-label="关闭">×</button>
+      <div class="modal-body" id="checkoutBody"></div>
+    </div>
+  </div>
+
+  <!-- ============ 信息弹层（FAQ/品相/运费） ============ -->
+  <div class="modal" id="infoModal" hidden>
+    <div class="modal-box">
+      <button class="modal-close" data-close-modal aria-label="关闭">×</button>
+      <div class="modal-body" id="infoBody"></div>
+    </div>
+  </div>
+
+  <!-- ============ 迷你播放器 ============ -->
+  <div class="player" id="player" hidden>
+    <div class="player-disc" id="playerDisc"></div>
+    <div class="player-meta">
+      <strong id="playerTitle">—</strong>
+      <span id="playerArtist">试听片段</span>
+    </div>
+    <div class="player-progress"><i id="playerBar"></i></div>
+    <button class="player-stop" id="playerStop" aria-label="停止试听">■</button>
+  </div>
+
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+
+  <script src="./js/data.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+</html>

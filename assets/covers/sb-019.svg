@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#41371b"/>
+      <stop offset="60%" stop-color="#33280a"/>
+      <stop offset="100%" stop-color="#2b2208"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <circle cx="402.46746588498354" cy="287.89750376716256" r="60" fill="none" stroke="#f0dfc0" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="402.46746588498354" cy="287.89750376716256" r="114.08095198497176" fill="none" stroke="#f0dfc0" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="402.46746588498354" cy="287.89750376716256" r="176.2972296103835" fill="none" stroke="#d3a72e" stroke-opacity="0.5" stroke-width="3"/><circle cx="402.46746588498354" cy="287.89750376716256" r="238.25099040940404" fill="none" stroke="#f0dfc0" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="402.46746588498354" cy="287.89750376716256" r="295.52096578478813" fill="none" stroke="#f0dfc0" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="402.46746588498354" cy="287.89750376716256" r="317.301034424454" fill="none" stroke="#d3a72e" stroke-opacity="0.5" stroke-width="3"/><circle cx="402.46746588498354" cy="287.89750376716256" r="389.279814273119" fill="none" stroke="#f0dfc0" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="402.46746588498354" cy="287.89750376716256" r="462.4260432943702" fill="none" stroke="#f0dfc0" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="402.46746588498354" cy="287.89750376716256" r="517.8492096066475" fill="none" stroke="#d3a72e" stroke-opacity="0.5" stroke-width="3"/><circle cx="402.46746588498354" cy="287.89750376716256" r="613.447127725929" fill="none" stroke="#f0dfc0" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="402.46746588498354" cy="287.89750376716256" r="606.332154199481" fill="none" stroke="#f0dfc0" stroke-opacity="0.22" stroke-width="1.6"/><circle cx="402.46746588498354" cy="287.89750376716256" r="34" fill="#d3a72e"/><circle cx="402.46746588498354" cy="287.89750376716256" r="7" fill="#1a1405"/>
+          <path d="M 142.46746588498354 287.89750376716256 A 260 260 0 0 1 402.46746588498354 27.89750376716256" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="52"/><g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#f0dfc0">
+      <rect x="46" y="46" width="150" height="34" fill="none" stroke="#f0dfc0" stroke-opacity=".55" stroke-width="1.4"/>
+      <text x="121" y="69" font-size="15" letter-spacing="3" text-anchor="middle" opacity=".85">STEREO · 33⅓</text>
+    </g>
+      <text x="46" y="600" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-size="92" fill="#f0dfc0" font-style="italic">无人生还之夜</text>
+      <text x="46" y="662" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="27" letter-spacing="10" fill="#d3a72e">野蜂剧场</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#f0dfc0">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">野蜂唱片 · WB-066</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">1966 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#f0dfc0" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#f0dfc0" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="615.526214428246" y1="550.7314572110772" x2="868.7087358197937" y2="503.40269104908043" stroke="#f0dfc0" stroke-opacity="0.07731792482081801" stroke-width="0.7751355438027531"/><line x1="603.5048771649599" y1="747.1680406481028" x2="754.1705492093121" y2="970.6136717052871" stroke="#f0dfc0" stroke-opacity="0.060164521681144834" stroke-width="0.7079154945909977"/><line x1="453.9626242592931" y1="538.9807913452387" x2="532.3785341892116" y2="830.1265554494973" stroke="#f0dfc0" stroke-opacity="0.08540347098605708" stroke-width="0.8421277116518467"/><line x1="211.50817535817623" y1="209.2528760433197" x2="339.7949676665677" y2="181.90444853007952" stroke="#f0dfc0" stroke-opacity="0.0829460160806775" stroke-width="0.9342322062235325"/>
+  <filter id="gr83" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="83" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr83)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

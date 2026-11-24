@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#203228"/>
+      <stop offset="60%" stop-color="#0f2318"/>
+      <stop offset="100%" stop-color="#0d1d14"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <circle cx="250" cy="300" r="190" fill="none" stroke="#c9a86a" stroke-opacity=".5" stroke-width="2"/><circle cx="250" cy="300" r="117.8" fill="none" stroke="#c9a86a" stroke-opacity=".28" stroke-width="1.4"/><circle cx="250" cy="300" r="57" fill="none" stroke="#c9a86a" stroke-opacity=".22" stroke-width="1.2"/><circle cx="250" cy="300" r="9" fill="#c9a86a" opacity=".75"/><circle cx="520" cy="430" r="230" fill="#e8e0cd" /><circle cx="520" cy="430" r="220" fill="none" stroke="#a29d90" stroke-opacity=".7" stroke-width="1.5"/><circle cx="520" cy="430" r="9" fill="#807b71" opacity=".75"/><circle cx="400" cy="210" r="120" fill="none" stroke="#c9a86a" stroke-opacity=".5" stroke-width="2"/><circle cx="400" cy="210" r="74.4" fill="none" stroke="#c9a86a" stroke-opacity=".28" stroke-width="1.4"/><circle cx="400" cy="210" r="36" fill="none" stroke="#c9a86a" stroke-opacity=".22" stroke-width="1.2"/><circle cx="400" cy="210" r="9" fill="#c9a86a" opacity=".75"/><circle cx="620" cy="240" r="110" fill="none" stroke="#c9a86a" stroke-opacity=".5" stroke-width="2"/><circle cx="620" cy="240" r="68.2" fill="none" stroke="#c9a86a" stroke-opacity=".28" stroke-width="1.4"/><circle cx="620" cy="240" r="33" fill="none" stroke="#c9a86a" stroke-opacity=".22" stroke-width="1.2"/><circle cx="620" cy="240" r="9" fill="#c9a86a" opacity=".75"/>
+      <text x="52" y="118" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-size="78" fill="#c9a86a">九号球蔷薇</text>
+      <text x="52" y="172" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="24" letter-spacing="10" fill="#e8e0cd">午夜台球厅</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#c9a86a">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">夜场唱片 · NC-079</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">1979 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#c9a86a" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#c9a86a" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="272.8238647803664" y1="108.61351769417524" x2="448.94596062579296" y2="17.623041355628445" stroke="#c9a86a" stroke-opacity="0.05524158745538443" stroke-width="0.7376119761262089"/><line x1="278.94619796425104" y1="428.4412330016494" x2="348.27298837996943" y2="717.7141144371424" stroke="#c9a86a" stroke-opacity="0.06671468820422888" stroke-width="1.2093112470116467"/><line x1="542.1079458668828" y1="670.514414831996" x2="749.8881767979155" y2="611.8445936871591" stroke="#c9a86a" stroke-opacity="0.05688208517385647" stroke-width="1.5879373873118312"/><line x1="541.1968145519495" y1="97.24067375063896" x2="752.950077967937" y2="292.14448722136683" stroke="#c9a86a" stroke-opacity="0.09089273277204485" stroke-width="0.6037748727481812"/>
+  <filter id="gr14" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="14" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr14)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

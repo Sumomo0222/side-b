@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#242d46"/>
+      <stop offset="60%" stop-color="#141d38"/>
+      <stop offset="100%" stop-color="#11182f"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <circle cx="250" cy="300" r="190" fill="none" stroke="#e8e0cd" stroke-opacity=".5" stroke-width="2"/><circle cx="250" cy="300" r="117.8" fill="none" stroke="#e8e0cd" stroke-opacity=".28" stroke-width="1.4"/><circle cx="250" cy="300" r="57" fill="none" stroke="#e8e0cd" stroke-opacity=".22" stroke-width="1.2"/><circle cx="250" cy="300" r="9" fill="#e8e0cd" opacity=".75"/><circle cx="520" cy="430" r="230" fill="#e8b04b" /><circle cx="520" cy="430" r="220" fill="none" stroke="#a27b35" stroke-opacity=".7" stroke-width="1.5"/><circle cx="520" cy="430" r="9" fill="#806129" opacity=".75"/><circle cx="400" cy="210" r="120" fill="none" stroke="#e8e0cd" stroke-opacity=".5" stroke-width="2"/><circle cx="400" cy="210" r="74.4" fill="none" stroke="#e8e0cd" stroke-opacity=".28" stroke-width="1.4"/><circle cx="400" cy="210" r="36" fill="none" stroke="#e8e0cd" stroke-opacity=".22" stroke-width="1.2"/><circle cx="400" cy="210" r="9" fill="#e8e0cd" opacity=".75"/><circle cx="620" cy="240" r="110" fill="none" stroke="#e8e0cd" stroke-opacity=".5" stroke-width="2"/><circle cx="620" cy="240" r="68.2" fill="none" stroke="#e8e0cd" stroke-opacity=".28" stroke-width="1.4"/><circle cx="620" cy="240" r="33" fill="none" stroke="#e8e0cd" stroke-opacity=".22" stroke-width="1.2"/><circle cx="620" cy="240" r="9" fill="#e8e0cd" opacity=".75"/>
+      <text x="52" y="118" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-size="78" fill="#e8e0cd">夏夜观测指南</text>
+      <text x="52" y="172" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="24" letter-spacing="10" fill="#e8b04b">少年望远</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#e8e0cd">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">观星台唱片 · OT-024</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">2024 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#e8e0cd" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#e8e0cd" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="380.4437045007944" y1="108.6779860779643" x2="650.0138796056015" y2="38.624647444307016" stroke="#e8e0cd" stroke-opacity="0.06544521596515551" stroke-width="1.2266654585488141"/><line x1="256.3413079828024" y1="700.816005654633" x2="271.62521087622395" y2="809.1733881665646" stroke="#e8e0cd" stroke-opacity="0.09148371991468594" stroke-width="1.450575326010585"/><line x1="64.46250658482313" y1="272.61300068348646" x2="135.44650175791517" y2="469.65780200863355" stroke="#e8e0cd" stroke-opacity="0.06453331505181269" stroke-width="1.2737224070820958"/><line x1="456.6780846565962" y1="207.49928541481495" x2="489.1785119167371" y2="273.6226817248669" stroke="#e8e0cd" stroke-opacity="0.062375651136972014" stroke-width="1.594428328005597"/>
+  <filter id="gr56" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr56)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

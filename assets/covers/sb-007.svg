@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#23313d"/>
+      <stop offset="60%" stop-color="#12222e"/>
+      <stop offset="100%" stop-color="#0f1d27"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <circle cx="250" cy="300" r="190" fill="none" stroke="#e8e0cd" stroke-opacity=".5" stroke-width="2"/><circle cx="250" cy="300" r="117.8" fill="none" stroke="#e8e0cd" stroke-opacity=".28" stroke-width="1.4"/><circle cx="250" cy="300" r="57" fill="none" stroke="#e8e0cd" stroke-opacity=".22" stroke-width="1.2"/><circle cx="250" cy="300" r="9" fill="#e8e0cd" opacity=".75"/><circle cx="520" cy="430" r="230" fill="#7fa8c9" /><circle cx="520" cy="430" r="220" fill="none" stroke="#59768d" stroke-opacity=".7" stroke-width="1.5"/><circle cx="520" cy="430" r="9" fill="#465c6f" opacity=".75"/><circle cx="400" cy="210" r="120" fill="none" stroke="#e8e0cd" stroke-opacity=".5" stroke-width="2"/><circle cx="400" cy="210" r="74.4" fill="none" stroke="#e8e0cd" stroke-opacity=".28" stroke-width="1.4"/><circle cx="400" cy="210" r="36" fill="none" stroke="#e8e0cd" stroke-opacity=".22" stroke-width="1.2"/><circle cx="400" cy="210" r="9" fill="#e8e0cd" opacity=".75"/><circle cx="620" cy="240" r="110" fill="none" stroke="#e8e0cd" stroke-opacity=".5" stroke-width="2"/><circle cx="620" cy="240" r="68.2" fill="none" stroke="#e8e0cd" stroke-opacity=".28" stroke-width="1.4"/><circle cx="620" cy="240" r="33" fill="none" stroke="#e8e0cd" stroke-opacity=".22" stroke-width="1.2"/><circle cx="620" cy="240" r="9" fill="#e8e0cd" opacity=".75"/>
+      <text x="52" y="118" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-size="78" fill="#e8e0cd">北纬回声</text>
+      <text x="52" y="172" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="24" letter-spacing="10" fill="#7fa8c9">白鲸导航</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#e8e0cd">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">航海日志唱片 · SJ-023</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">2023 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#e8e0cd" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#e8e0cd" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="289.9448614567518" y1="564.5840844139457" x2="458.59414615956507" y2="389.37644414300695" stroke="#e8e0cd" stroke-opacity="0.09677048570010811" stroke-width="1.1602402985095979"/><line x1="503.0522670596838" y1="17.570354230701923" x2="715.6236361457433" y2="-25.883721268237736" stroke="#e8e0cd" stroke-opacity="0.07632178612984718" stroke-width="0.8602907542604953"/><line x1="711.0541366040707" y1="249.22233298420906" x2="838.7016698701484" y2="139.11517580582188" stroke="#e8e0cd" stroke-opacity="0.06832580426707864" stroke-width="0.688707349030301"/><line x1="33.76451041549444" y1="51.8154026940465" x2="132.9096690814667" y2="188.59143562409108" stroke="#e8e0cd" stroke-opacity="0.0733404120663181" stroke-width="0.7969250075053423"/>
+  <filter id="gr19" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="19" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr19)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#212b35"/>
+      <stop offset="60%" stop-color="#101b26"/>
+      <stop offset="100%" stop-color="#0d1720"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <rect x="98" y="100" width="14" height="14" fill="#8fd0d8" opacity="0.27726847792509945"/><rect x="254" y="204" width="14" height="14" fill="#e8b04b" opacity="0.32431624804157766"/><rect x="306" y="152" width="14" height="14" fill="#8fd0d8" opacity="0.22429992174729704"/><rect x="358" y="204" width="14" height="14" fill="#8fd0d8" opacity="0.3575451246928424"/><rect x="410" y="100" width="14" height="14" fill="#8fd0d8" opacity="0.5592149183852598"/><rect x="410" y="152" width="14" height="14" fill="#8fd0d8" opacity="0.6183820799691603"/><rect x="514" y="204" width="14" height="14" fill="#e8b04b" opacity="0.3611750603653491"/><rect x="46" y="473.32916909580206" width="56" height="216.6708309041979" fill="#8fd0d8" opacity="0.28"/><rect x="108" y="493.15316844737345" width="56" height="196.84683155262658" fill="#8fd0d8" opacity="0.28"/><rect x="170" y="547.0325028155355" width="56" height="142.9674971844645" fill="#e8b04b" opacity="0.9"/><rect x="232" y="574.3408147495102" width="56" height="115.65918525048978" fill="#8fd0d8" opacity="0.28"/><rect x="294" y="550.409012006379" width="56" height="139.59098799362098" fill="#8fd0d8" opacity="0.28"/><rect x="356" y="615.8141106794568" width="56" height="74.18588932054323" fill="#8fd0d8" opacity="0.28"/><rect x="418" y="499.25341333128546" width="56" height="190.74658666871454" fill="#e8b04b" opacity="0.9"/><rect x="480" y="573.1776678181222" width="56" height="116.82233218187778" fill="#8fd0d8" opacity="0.28"/><rect x="542" y="501.22793719424976" width="56" height="188.7720628057502" fill="#8fd0d8" opacity="0.28"/><rect x="604" y="494.113704201472" width="56" height="195.886295798528" fill="#8fd0d8" opacity="0.28"/><rect x="666" y="613.9320054506804" width="56" height="76.06799454931952" fill="#e8b04b" opacity="0.9"/><rect x="728" y="605.8026342061918" width="56" height="84.19736579380819" fill="#8fd0d8" opacity="0.28"/>
+      <text x="46" y="360" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-size="82" fill="#8fd0d8">慢速未来</text>
+      <text x="46" y="415" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="24" letter-spacing="10" fill="#e8b04b">波形记忆</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#8fd0d8">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">环形实验室 · RL-088</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">1988 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#8fd0d8" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#8fd0d8" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="754.9020435661077" y1="756.4276155084372" x2="995.8485158297685" y2="577.8237555680528" stroke="#8fd0d8" stroke-opacity="0.08706176126142964" stroke-width="0.7048302594572305"/><line x1="619.6768384426832" y1="313.54685965925455" x2="706.7232950341851" y2="564.2379057495244" stroke="#8fd0d8" stroke-opacity="0.05712912533199415" stroke-width="0.8192364195361733"/><line x1="479.9601474776864" y1="245.7356210798025" x2="536.070268695246" y2="322.1193220452924" stroke="#8fd0d8" stroke-opacity="0.08666070206090809" stroke-width="0.6510552595369518"/><line x1="776.6237081959844" y1="147.41710908710957" x2="1021.7542177765287" y2="98.71246836944749" stroke="#8fd0d8" stroke-opacity="0.08192881353897974" stroke-width="0.6781797382514924"/>
+  <filter id="gr8" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="8" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr8)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>

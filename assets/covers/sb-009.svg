@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#243120"/>
+      <stop offset="60%" stop-color="#14210f"/>
+      <stop offset="100%" stop-color="#111c0d"/>
+    </linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bgg)"/>
+  <rect x="46" y="152" width="14" height="14" fill="#d8c04a" opacity="0.39956512497738006"/><rect x="98" y="100" width="14" height="14" fill="#d8c04a" opacity="0.2834086002316326"/><rect x="98" y="152" width="14" height="14" fill="#d8c04a" opacity="0.1783849589759484"/><rect x="98" y="204" width="14" height="14" fill="#d8c04a" opacity="0.5330957503523678"/><rect x="150" y="152" width="14" height="14" fill="#d8c04a" opacity="0.1882053384091705"/><rect x="202" y="100" width="14" height="14" fill="#d8c04a" opacity="0.5729176602093503"/><rect x="202" y="152" width="14" height="14" fill="#d8c04a" opacity="0.2631044456269592"/><rect x="202" y="204" width="14" height="14" fill="#d8c04a" opacity="0.399109196360223"/><rect x="254" y="152" width="14" height="14" fill="#d8c04a" opacity="0.3443525376264006"/><rect x="254" y="204" width="14" height="14" fill="#d8c04a" opacity="0.5353872491745278"/><rect x="306" y="204" width="14" height="14" fill="#e8e0cd" opacity="0.5947142177959904"/><rect x="410" y="100" width="14" height="14" fill="#d8c04a" opacity="0.157220808416605"/><rect x="462" y="100" width="14" height="14" fill="#e8e0cd" opacity="0.2797921083169058"/><rect x="462" y="204" width="14" height="14" fill="#d8c04a" opacity="0.2510178599972278"/><rect x="514" y="152" width="14" height="14" fill="#d8c04a" opacity="0.24966368740424513"/><rect x="46" y="471.45898511680014" width="56" height="218.54101488319984" fill="#d8c04a" opacity="0.28"/><rect x="108" y="596.5132903683243" width="56" height="93.48670963167565" fill="#d8c04a" opacity="0.28"/><rect x="170" y="565.9595367241845" width="56" height="124.04046327581543" fill="#e8e0cd" opacity="0.9"/><rect x="232" y="538.1940955561928" width="56" height="151.8059044438072" fill="#d8c04a" opacity="0.28"/><rect x="294" y="666.3169296010001" width="56" height="23.683070398999966" fill="#d8c04a" opacity="0.28"/><rect x="356" y="484.16725589344344" width="56" height="205.83274410655656" fill="#d8c04a" opacity="0.28"/><rect x="418" y="643.8242578719174" width="56" height="46.175742128082604" fill="#e8e0cd" opacity="0.9"/><rect x="480" y="501.94486875652444" width="56" height="188.05513124347559" fill="#d8c04a" opacity="0.28"/><rect x="542" y="532.6385609906213" width="56" height="157.3614390093787" fill="#d8c04a" opacity="0.28"/><rect x="604" y="578.1364485644812" width="56" height="111.86355143551881" fill="#d8c04a" opacity="0.28"/><rect x="666" y="546.3994642593693" width="56" height="143.6005357406307" fill="#e8e0cd" opacity="0.9"/><rect x="728" y="544.4364638815503" width="56" height="145.5635361184498" fill="#d8c04a" opacity="0.28"/>
+      <text x="46" y="360" font-family="'Palatino Linotype', Palatino, Georgia, 'Songti SC', 'Times New Roman', serif" font-size="82" fill="#d8c04a">发光的复杂度</text>
+      <text x="46" y="415" font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" font-size="24" letter-spacing="10" fill="#e8e0cd">电动萤火虫</text>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'PingFang SC', sans-serif" fill="#d8c04a">
+      <text x="46" y="756" font-size="17" letter-spacing="4" opacity=".8">萤火电波 · FR-095</text>
+      <text x="754" y="756" font-size="17" letter-spacing="3" opacity=".8" text-anchor="end">1995 · 33⅓ RPM</text>
+    </g>
+  <rect x="30" y="30" width="740" height="740" fill="none" stroke="#d8c04a" stroke-opacity="0.38" stroke-width="2"/>
+          <rect x="40" y="40" width="720" height="720" fill="none" stroke="#d8c04a" stroke-opacity="0.19" stroke-width="1"/>
+  <line x1="569.4715097546577" y1="99.10662937909365" x2="651.8118033660471" y2="310.257106502993" stroke="#d8c04a" stroke-opacity="0.09401023618411274" stroke-width="1.3920918241143228"/><line x1="418.9766466617584" y1="609.2263422906399" x2="686.7500595021272" y2="499.61434302109103" stroke="#d8c04a" stroke-opacity="0.09185453137615696" stroke-width="0.6848644685465842"/><line x1="427.55879424512386" y1="698.8794839009643" x2="580.1846729521649" y2="572.48469739495" stroke="#d8c04a" stroke-opacity="0.06017358327517286" stroke-width="1.2556969832163305"/><line x1="781.9578154012561" y1="307.1359949186444" x2="864.0718927539914" y2="252.8406772263015" stroke="#d8c04a" stroke-opacity="0.07932025735499337" stroke-width="1.3456381744705141"/>
+  <filter id="gr89" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="89" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0.6 0.6 0.6 0 0"/>
+    </filter>
+    <rect width="800" height="800" filter="url(#gr89)" opacity="0.07"/>
+  <radialGradient id="vg" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".32"/>
+    </radialGradient><rect width="800" height="800" fill="url(#vg)"/>
+</svg>
